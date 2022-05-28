@@ -23,7 +23,7 @@ To do this, you'll need your Menu's unique 8 character ID, this is located at th
 
 From here, once you have your ID, place it into the ID field in the command in which we're currently forming. After this, mention the role in the command, this is the one in which we are going to be removing from the embed. Your command should end up looking a little something like the following:
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (6) (1).png>)
 
 From here, just simply press enter and boom! Your role has been removed from the self role menu!
 

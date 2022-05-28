@@ -15,11 +15,11 @@ The first thing you're going to have to do is ensure that Role Manager has the p
 
 In any channel, type `/auto-role remove`, this will bring up something looking a little like the image shown below:
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7) (1).png>)
 
 This is the command we'll be using to remove our auto-roles from the server. Deleting auto-roles is super easy! All we have to do is click enter on that command, that will then bring us to a screen that looks like the following:&#x20;
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 From here, simply mention the role in which you'd like to remove and in which you'd like Role Manager to stop assigning to users upon their arrival in your server.
 

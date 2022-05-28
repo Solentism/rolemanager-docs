@@ -12,3 +12,4 @@
 
 * [Deleting Self Roles](d/deleting-sr.md)
 * [Deleting Auto Roles](d/deleting-ar.md)
+* [Deleting Role Persists](d/deleting-rp.md)

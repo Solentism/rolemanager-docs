@@ -5,7 +5,7 @@ cover: >-
 coverY: 0
 ---
 
-# Setting up Auto Roles with Role Manager!
+# Setting up Auto Roles
 
 Before going any further, you'll need to ensure you have the `Administrator` permission within the server you're using. If you're the Owner of the server, then you'll have no need to worry about this!
 
@@ -15,13 +15,13 @@ The first thing you're going to have to do is ensure that Role Manager has the p
 
 In any channel, type `/auto-role add`, this will bring up something looking a little like the image shown below:
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
 
 Once you can see this, press enter on your keyboard. You'll then see a field for you to select a role. This is the role you'd like members to recieve upon their joining of your server. For this tutorial, I'll just use a random role I have laying around in my server.
 
 Once your role has been selected, you'll see something like the following:
 
-![](<../.gitbook/assets/image (6) (1).png>)
+![](<../.gitbook/assets/image (6) (1) (1).png>)
 
 From here, simply press enter on your keyboard and you're done! On a users arrival to your server, they'll automatically be granted the role you've specified within the command above. Should you want to view all of your current server's auto-roles, simply use the command /auto-role list and you'll see an embed with all of your current auto-roles!
 
