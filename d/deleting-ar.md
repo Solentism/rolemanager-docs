@@ -5,7 +5,7 @@ cover: >-
 coverY: 0
 ---
 
-# Deleting Auto Roles with Role Manager!
+# Deleting Auto Roles
 
 Before going any further, you'll need to ensure you have the `Administrator` permission within the server you're using. If you're the Owner of the server, then you'll have no need to worry about this!
 
@@ -27,7 +27,7 @@ In my case, I'm going to use the same role I used when creating the auto-role in
 
 From here, this should then look a little something like the following:
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)
 
 From here, just simply press enter and boom! Your auto-role has been removed!
 

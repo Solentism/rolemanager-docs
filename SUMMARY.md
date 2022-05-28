@@ -6,6 +6,7 @@
 
 * [Setting up Self Roles](p/self-roles.md)
 * [Setting up Auto Roles](p/auto-roles.md)
+* [Setting up Role Persists](p/role-persists.md)
 
 ## ☺ Getting Started: Vol 2 <a href="#d" id="d"></a>
 

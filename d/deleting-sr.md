@@ -5,7 +5,7 @@ cover: >-
 coverY: 0
 ---
 
-# Deleting Self Roles with Role Manager!
+# Deleting Self Roles
 
 Before going any further, you'll need to ensure you have the `Administrator` permission within the server you're using. If you're the Owner of the server, then you'll have no need to worry about this!
 
@@ -15,7 +15,7 @@ The first thing you're going to have to do is ensure that Role Manager has the p
 
 In any channel, type `/self-role remove`, this will bring up something looking a little like the image shown below:
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 This is the command we're going to be using in order to remove a self-role making it impossible for members to get this role from the menu. From here, press enter and we'll be greeted with 2 required fields. One is the Menu ID and the other is the role in which we're going to be removing.
 
@@ -41,7 +41,7 @@ This is the command we'll be using in order to completely remove your self-role 
 
 From here, you'll see a required field for an ID, simply paste the ID within the field. It should end up looking something like the following:&#x20;
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 From here, simply press enter and and boom! Your self role menu has been removed from the server!
 
