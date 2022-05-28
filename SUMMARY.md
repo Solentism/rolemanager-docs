@@ -2,7 +2,7 @@
 
 * [Welcome to the Role Manager Documentation! 👋](README.md)
 
-## ☺ Getting Started <a href="#gs" id="gs"></a>
+## ☺ Getting Started <a href="#p" id="p"></a>
 
-* [Setting up Self Roles with Role Manager!](gs/self-roles.md)
-* [Setting up Auto Roles with Role Manager!](gs/setting-up-auto-roles-with-role-manager.md)
+* [Setting up Self Roles with Role Manager!](p/self-roles.md)
+* [Setting up Auto Roles with Role Manager!](p/auto-roles.md)
