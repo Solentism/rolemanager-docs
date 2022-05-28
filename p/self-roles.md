@@ -25,7 +25,7 @@ Once you've chosen your channel, you'll see one last required field within the s
 
 Once you've done this, you'll recieve a message prompt telling you that the menu creation was successful and that it's ready to be used! If you don't get this prompt, there is likely an error in the bots permissions. The prompt looks as shown below:
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
 
 Each self role menu is attached to an 8 character identifiable string, this is to allow for Role Manager to find the menu you're trying to edit.
 
@@ -33,7 +33,7 @@ From here, copy the 8 character code given to you via the success embed in the a
 
 Once you've selected your role, press enter and you're done! You'll recieve a success message and the role will now be attached to the embed menu within your designated channel!
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 The rest is easy! Have your users go to your designated self roles channel, from there they can click on the dropdown and select the roles they desire!&#x20;
 
