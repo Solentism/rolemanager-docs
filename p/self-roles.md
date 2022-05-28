@@ -15,17 +15,17 @@ The first thing you're going to have to do is ensure that Role Manager has the p
 
 In any channel, type `/self-role create`, this will bring up something looking a little like the image shown below:
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)
 
 Once here, press enter. This will then bring up a list of your Discord server's channels, from here, select the channel in which you'd like the menu "stationed". For the purpose of this tutorial, I'll use the channel #tutorials.
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 Once you've chosen your channel, you'll see one last required field within the slash command we've been filling out. This is the title field, this is the text that will display at the very top of the menu. For the purpose of this tutorial, we're going to call it "Tutorial Title".
 
 Once you've done this, you'll recieve a message prompt telling you that the menu creation was successful and that it's ready to be used! If you don't get this prompt, there is likely an error in the bots permissions. The prompt looks as shown below:
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 Each self role menu is attached to an 8 character identifiable string, this is to allow for Role Manager to find the menu you're trying to edit.
 
@@ -33,10 +33,10 @@ From here, copy the 8 character code given to you via the success embed in the a
 
 Once you've selected your role, press enter and you're done! You'll recieve a success message and the role will now be attached to the embed menu within your designated channel!
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1).png>)
 
 The rest is easy! Have your users go to your designated self roles channel, from there they can click on the dropdown and select the roles they desire!&#x20;
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 So there you have it! That's how you setup self roles on Role Manager v3! Should you have any further questions or problems, don't hesistate to join our support server over @ [UtiliBots](https://discord.gg/cAtc7kZbPX)!
