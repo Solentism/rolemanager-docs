@@ -7,7 +7,7 @@ coverY: 0
 
 # Setting up Self Roles
 
-Before going any further, you'll need to ensure you have the `Administrator` permission within the server you're using. If you're the Owner of the server, then you'll have no need to worry about this!
+Before going any further, you'll need to ensure you have the `Administrator` permission within the server you're using. If you're the Owner of the server, then you'll have no need to worry about this! With the arrival of v3 also comes bot access, a way to restrict commands to certain roles. To learn more about setting up bot access, check [Getting Started: Setting up Bot Access](bot-access.md)!
 
 ### Creating a Self Role menu within your designated channel!
 
@@ -19,7 +19,7 @@ In any channel, type `/self-role create`, this will bring up something looking a
 
 Once here, press enter. This will then bring up a list of your Discord server's channels, from here, select the channel in which you'd like the menu "stationed". For the purpose of this tutorial, I'll use the channel #tutorials.
 
-![](<../.gitbook/assets/image (2) (1) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1) (1).png>)
 
 Once you've chosen your channel, you'll see one last required field within the slash command we've been filling out. This is the title field, this is the text that will display at the very top of the menu. For the purpose of this tutorial, we're going to call it "Tutorial Title".
 
@@ -37,6 +37,6 @@ Once you've selected your role, press enter and you're done! You'll recieve a su
 
 The rest is easy! Have your users go to your designated self roles channel, from there they can click on the dropdown and select the roles they desire!&#x20;
 
-![](<../.gitbook/assets/image (3) (1) (1).png>)
+![](<../.gitbook/assets/image (3) (1) (1) (1).png>)
 
 So there you have it! That's how you setup self roles on Role Manager v3! Should you have any further questions or problems, don't hesistate to join our support server over @ [UtiliBots](https://discord.gg/cAtc7kZbPX)!

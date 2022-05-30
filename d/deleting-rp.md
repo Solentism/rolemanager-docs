@@ -1,13 +1,13 @@
 ---
 description: Deleting role persists is a piece of cake with Role Manager v3!
 cover: >-
-  https://images.unsplash.com/photo-1604076850742-4c7221f3101b?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw0fHxncmFkaWVudHxlbnwwfHx8fDE2NTMxODU2NTU&ixlib=rb-1.2.1&q=80
+  https://images.unsplash.com/photo-1579546929518-9e396f3cc809?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHxncmFkaWVudHxlbnwwfHx8fDE2NTM5MjE4OTA&ixlib=rb-1.2.1&q=80
 coverY: 0
 ---
 
 # Deleting Role Persists
 
-Before going any further, you'll need to ensure you have the `Administrator` permission within the server you're using. If you're the Owner of the server, then you'll have no need to worry about this!
+Before going any further, you'll need to ensure you have the `Administrator` permission within the server you're using. If you're the Owner of the server, then you'll have no need to worry about this! With the arrival of v3 also comes bot access, a way to restrict commands to certain roles. To learn more about setting up bot access, check [Getting Started: Setting up Bot Access](../p/bot-access.md)!
 
 ### Deleting a Role Persist with Role Manager!
 
@@ -27,7 +27,7 @@ From here, simply mention the role in which you'd like to remove and in which yo
 
 From here, this should then look a little something like the following:
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (6) (1).png>)
 
 From here, just simply press enter and boom! Your role persist has been removed!
 

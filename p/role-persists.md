@@ -7,7 +7,7 @@ coverY: 0
 
 # Setting up Role Persists
 
-Before going any further, you'll need to ensure you have the `Administrator` permission within the server you're using. If you're the Owner of the server, then you'll have no need to worry about this!
+Before going any further, you'll need to ensure you have the `Administrator` permission within the server you're using. If you're the Owner of the server, then you'll have no need to worry about this! With the arrival of v3 also comes bot access, a way to restrict commands to certain roles. To learn more about setting up bot access, check [Getting Started: Setting up Bot Access](bot-access.md)!
 
 ### Creating a Role Persist on your server with Role Manager!
 
@@ -15,7 +15,7 @@ The first thing you're going to have to do is ensure that Role Manager has the p
 
 In any channel, type `/role-persist add`, this will bring up something looking a little like the image shown below:
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 Once you can see this, press enter on your keyboard. You'll then see two required fields, one is a user field and the other a role field.&#x20;
 
@@ -25,7 +25,7 @@ Once your user has been selected, you'll see something like the following:
 
 Now it's time to select the role, once you've selected the role, you'll see something like the following:
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 From here, simply press enter on your keyboard and you're done! On the user specified's arrival, they'll automatically be assigned the role in which you've just selected!
 

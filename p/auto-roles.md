@@ -7,7 +7,7 @@ coverY: 0
 
 # Setting up Auto Roles
 
-Before going any further, you'll need to ensure you have the `Administrator` permission within the server you're using. If you're the Owner of the server, then you'll have no need to worry about this!
+Before going any further, you'll need to ensure you have the `Administrator` permission within the server you're using. If you're the Owner of the server, then you'll have no need to worry about this! With the arrival of v3 also comes bot access, a way to restrict commands to certain roles. To learn more about setting up bot access, check [Getting Started: Setting up Bot Access](bot-access.md)!
 
 ### Creating an Auto Role on your server with Role Manager!
 
@@ -21,10 +21,10 @@ Once you can see this, press enter on your keyboard. You'll then see a field for
 
 Once your role has been selected, you'll see something like the following:
 
-![](<../.gitbook/assets/image (6) (1) (1).png>)
+![](<../.gitbook/assets/image (6) (1) (1) (1).png>)
 
 From here, simply press enter on your keyboard and you're done! On a users arrival to your server, they'll automatically be granted the role you've specified within the command above. Should you want to view all of your current server's auto-roles, simply use the command /auto-role list and you'll see an embed with all of your current auto-roles!
 
-![](<../.gitbook/assets/image (4) (1).png>)
+![](<../.gitbook/assets/image (4) (1) (1).png>)
 
 So there you have it! That's how you setup auto-roles on Role Manager v3! Should you have any further questions or problems, don't hesistate to join our support server over @ [UtiliBots](https://discord.gg/cAtc7kZbPX)!

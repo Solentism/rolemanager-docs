@@ -7,7 +7,7 @@ coverY: 0
 
 # Deleting Auto Roles
 
-Before going any further, you'll need to ensure you have the `Administrator` permission within the server you're using. If you're the Owner of the server, then you'll have no need to worry about this!
+Before going any further, you'll need to ensure you have the `Administrator` permission within the server you're using. If you're the Owner of the server, then you'll have no need to worry about this! With the arrival of v3 also comes bot access, a way to restrict commands to certain roles. To learn more about setting up bot access, check [Getting Started: Setting up Bot Access](../p/bot-access.md)!
 
 ### Deleting an Auto Role with Role Manager!
 
